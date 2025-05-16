@@ -1,3 +1,7 @@
 credentials.json
 __pycache__/
 *.pyc
+venv/
+.env
+naver_state.json
+donwloads/
